@@ -1,10 +1,11 @@
-# SARS-COV2
+# SARS-COV2 (COVID DATA FETCHING)
 
 #### Created By Developer Tim on 08-10-2022
 
 ## Description
 
-Obtain covid info
+Obtain covid info using API.
+Learn about the severity of COVID19 in different countries.
 
 ## Setup Requirements
 
@@ -93,7 +94,7 @@ So far so good there are no bugs related to this project 😎
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
 
 - Email: timohmugendi@gmail.com
-- Phone: +254791417147
+- Phone: +254 791 417 147
 
 ## License
 
