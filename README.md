@@ -81,10 +81,12 @@ The following languages have been used on this project:
 
 - Live link to view the project <a target="_blank" href="#">View app</a>
 
-## Some Screenshots
+## Some Screenshots for Api preview😎
+ <img src="../screenshots/1.png" alt="screenshot" />
 
+  <img src=".../screenshots/2.png" alt="screenshot" />
 
-    
+  <img src="./screenshots/3.png" alt="screenshot" />
 ## Known Bugs
 
 So far so good there are no bugs related to this project 😎
