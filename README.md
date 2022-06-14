@@ -82,9 +82,9 @@ The following languages have been used on this project:
 - Live link to view the project <a target="_blank" href="#">View app</a>
 
 ## Some Screenshots for Api preview😎
- <img src="../screenshots/1.png" alt="screenshot" />
+ <img src="./screenshots/1.png" alt="screenshot" />
 
-  <img src=".../screenshots/2.png" alt="screenshot" />
+  <img src="./screenshots/2.png" alt="screenshot" />
 
   <img src="./screenshots/3.png" alt="screenshot" />
 ## Known Bugs
